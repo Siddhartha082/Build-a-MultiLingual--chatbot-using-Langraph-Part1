@@ -2,6 +2,7 @@
 
 A LLM based chat application to address language barriers and workplace inefficiences in large enterprises. Developed as part of the 1st edition of the [Aya Expedition](https://www.youtube.com/watch?v=oKstMwSUElA) organized by [Cohere for AI](https://cohere.com/research)
 
+# Article/ Ref - https://medium.com/enterprise-rag/legal-document-rag-multi-graph-multi-agent-recursive-retrieval-through-legal-clauses-c90e073e0052
 
 
 [![Screenshot-2024-09-01-at-12-25-24-AM.png](https://i.postimg.cc/gJ5j0sYL/Screenshot-2024-09-01-at-12-25-24-AM.png)](https://postimg.cc/dk2wH8ZJ)
